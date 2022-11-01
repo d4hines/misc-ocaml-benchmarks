@@ -1,0 +1,4 @@
+(executable
+ (name benchmarks)
+ (public_name benchmarks)
+ (libraries core core_unix.command_unix core_bench))
